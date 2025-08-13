@@ -276,21 +276,21 @@ export default function HomePage() {
               <Phone className="w-5 h-5" />
               <div>
                 <p className="font-semibold">Telefone</p>
-                <p className="text-blue-100">(22) 2522-1234</p>
+                <p className="text-blue-100">(22) 2791-9008</p>
               </div>
             </div>
             <div className="flex items-center gap-3">
               <Mail className="w-5 h-5" />
               <div>
                 <p className="font-semibold">E-mail</p>
-                <p className="text-blue-100">atendimento@pmnf.rj.gov.br</p>
+                <p className="text-blue-100">congem@macae.rj.gov.br</p>
               </div>
             </div>
             <div className="flex items-center gap-3">
               <MapPin className="w-5 h-5" />
               <div>
                 <p className="font-semibold">Endereço</p>
-                <p className="text-blue-100">Av. Pres. Feliciano Sodré, 534 - Centro</p>
+                <p className="text-blue-100">Avenida Presidente Sodré, 534 – Centro, Macaé – RJ, CEP 27913-080</p>
               </div>
             </div>
           </div>

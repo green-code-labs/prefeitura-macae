@@ -17,7 +17,7 @@ INSERT INTO usuarios (
   'Administrador Sistema',
   '111.222.333-44',
   'admin.sistema@novafriburgo.rj.gov.br',
-  '(22) 2522-1234',
+  '(22) 2791-9008',
   'Praça Getúlio Vargas, s/n - Centro, Macaé - RJ',
   'admin'
 );

@@ -192,7 +192,7 @@ export default function ServicoPage({ params }: { params: { secretaria: string; 
             <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
               <p className="text-sm text-blue-700">
                 <strong>Importante:</strong> Guarde este protocolo para acompanhar sua solicitação. Você pode entrar em
-                contato conosco pelo telefone (22) 2522-1234.
+                contato conosco pelo telefone (22) 2791-9008.
               </p>
             </div>
             <div className="flex gap-2">
